@@ -1,4 +1,4 @@
-#Leader-Follower Simulation
+Leader-Follower Simulation
 
 This project is a simulation of a leader-follower system using p5.js, a JavaScript library for creative coding. In this simulation, vehicles follow a leader, and there are various behaviors implemented, such as obstacle avoidance, separation, and arrival.
 
